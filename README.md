@@ -38,6 +38,8 @@ Before running the game, you'll need to make sure you have the following install
 The data for this game is loaded from the "50_states.csv" file, which should be in the same directory as the script. This CSV file contains information about the U.S. states' names and their corresponding coordinates.
 
 ## Screenshots
-
+![Screenshot 1](screenshots/states_1.png)
+![Screenshot 2](screenshots/states_2.png)
+![Screenshot 3](screenshots/states_3.png)
 
 Enjoy playing and learning about the U.S. states!
